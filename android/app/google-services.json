@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481899236249",
+    "project_id": "my-coolest-project-test",
+    "storage_bucket": "my-coolest-project-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481899236249:android:dd61301b38bda77e1fa108",
+        "android_client_info": {
+          "package_name": "com.google.firebase.presents.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUrTN0xbGE56qgOeTESB5tJKybwmM0KMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
